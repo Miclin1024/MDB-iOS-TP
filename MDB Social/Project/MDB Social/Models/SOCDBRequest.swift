@@ -33,4 +33,5 @@ class FIRDatabaseRequest {
     }
     
     /* TODO: Events getter */
+    // For example, see SOCAuthManager.linkUser(withuid:completion:)
 }
